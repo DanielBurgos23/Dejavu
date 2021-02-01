@@ -1,0 +1,64 @@
+
+body{
+    background-color: rgb(177, 174, 174);
+}
+
+h1{
+    background-color: black;
+    color: white;
+    text-align: right;
+    margin-top: -10px;
+    margin-left: -10px;
+    padding: 0.4em;
+}
+p.fecha{
+    color: white;
+    background-color: gray;
+    text-align: center;
+    font-size: 300%;
+    margin-right: auto;
+    margin-left: auto;
+    width: 10em;
+}
+
+.black{
+    height: 2px;
+    background-color: black;
+    margin-left: 32%;
+    margin-right: 32%;
+}
+
+h2{
+    text-align: center;
+}
+
+.white{
+    height: 2px;
+    background-color: white;
+    margin-left: 32%;
+    margin-right: 32%;
+}
+
+p{
+    margin-left: 510px;
+    margin-right: 510px;
+}
+
+.negrita{
+    font-weight: bold;
+}
+
+
+.fondo{
+    background-color: white;
+    color: red;
+}
+
+.azul{
+    color: blue;
+}
+
+.comillas{
+    text-decoration: underline dotted red;
+    font-size: 21px;
+}
